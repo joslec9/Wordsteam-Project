@@ -159,7 +159,7 @@ h1 {
 
 #left_content_ad {
     width: 200px;
-    height: 260px;
+    height: 270px;
     background-image: url("images/left_content_ad.png");
     margin: 15px auto;
 }
@@ -248,13 +248,6 @@ h1 {
 #phone {
     height: 48px;
     width: 33px;
-}
-
-
-/*Normalize stylings*/
-
-div.centered {
-    text-align: center;
 }
 
 span.highlightunder {
